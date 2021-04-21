@@ -7,3 +7,6 @@ To run the program:<br>
 3- (For multiple cases) - Enter the file name of the file containing the test cases on line 3<br>
 4- Run the 3rd cell<br>
 5- Output files will be created in the containing folder.
+
+Demo Helper:
+https://www.figma.com/file/cPkI4CL26Sm4v09CcRbEPg/Untitled?node-id=0%3A1
